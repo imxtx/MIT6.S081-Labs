@@ -8,3 +8,4 @@
 - pingpong (easy): [pingpong.c](user/pingpong.c)
 - primes (moderate/hard): [primes.c](user/primes.c)
 - find (moderate): [find.c](user/find.c)
+- find (moderate): [xargs.c](user/xargs.c)
